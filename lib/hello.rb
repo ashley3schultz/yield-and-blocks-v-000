@@ -5,5 +5,5 @@ def hello_t(array)
 end
 end
 
-hello_t(array)
+#hello_t(array)
 
